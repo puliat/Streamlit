@@ -4,3 +4,9 @@ numpy
 matplotlib
 streamlit_lottie 
 joypy
+geopandas
+json 
+networkx
+seaborn
+wordcloud
+ipywidgets
